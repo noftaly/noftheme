@@ -16,23 +16,27 @@ It is a Dark theme, with high contrast syntax highlighting. Works perfectly with
 
 ### React Component
 
-<a href="https://www.noelshack.com/2019-40-7-1570382798-capture-d-ecran-2019-10-06-a-19-22-43.png"><img src="https://image.noelshack.com/minis/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-22-43.png" border="0" alt="1570382798-capture-d-ecran-2019-10-06-a-19-22-43.png - envoi d'image avec NoelShack" title="React Component with noftheme"/></a>
+![React Component](/screenshots/reactcompo.png)
 
 ### C# and Java Code
 
-<a href="https://www.noelshack.com/2019-40-7-1570382798-capture-d-ecran-2019-10-06-a-19-26-14.png"><img src="https://image.noelshack.com/minis/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-26-14.png" border="0" alt="1570382798-capture-d-ecran-2019-10-06-a-19-26-14.png - envoi d'image avec NoelShack" title="C# and Java with noftheme"/></a>
+![C# and Java](/screenshots/csharpjava.png)
+
 
 ### JSON
 
-<a href="https://www.noelshack.com/2019-40-7-1570382798-capture-d-ecran-2019-10-06-a-19-23-34.png"><img src="https://image.noelshack.com/minis/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-23-34.png" border="0" alt="1570382798-capture-d-ecran-2019-10-06-a-19-23-34.png - envoi d'image avec NoelShack" title="JSON with noftheme"/></a>
+![JSON](/screenshots/json.png)
+
 
 ### Markdown
 
-<a href="https://www.noelshack.com/2019-40-7-1570382798-capture-d-ecran-2019-10-06-a-19-23-23.png"><img src="https://image.noelshack.com/minis/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-23-23.png" border="0" alt="1570382798-capture-d-ecran-2019-10-06-a-19-23-23.png - envoi d'image avec NoelShack" title="Markdown with noftheme"/></a>
+![Markdown](/screenshots/mardown.png)
+
 
 ### HTML
 
-<a href="https://www.noelshack.com/2019-40-7-1570382798-capture-d-ecran-2019-10-06-a-19-22-43.png"><img src="https://image.noelshack.com/minis/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-22-43.png" border="0" alt="1570382798-capture-d-ecran-2019-10-06-a-19-22-43.png - envoi d'image avec NoelShack" title="HTML with noftheme"/></a>
+![HTML](/screenshots/html.png)
+
 
 ## Source Code
 
