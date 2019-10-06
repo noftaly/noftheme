@@ -14,20 +14,28 @@ It is a Dark theme, with high contrast syntax highlighting. Works perfectly with
 
 ## Examples
 
-React Component
-https://image.noelshack.com/fichiers/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-22-16.png
+### React Component
 
-C# and Java Code
-https://image.noelshack.com/fichiers/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-26-14.png
+![React Component](/screenshots/reactcompo.png)
 
-JSON
-https://image.noelshack.com/fichiers/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-23-34.png
+### C# and Java Code
 
-Markdown
-https://image.noelshack.com/fichiers/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-23-23.png
+![C# and Java](/screenshots/csharpjava.png)
 
-HTML
-https://image.noelshack.com/fichiers/2019/40/7/1570382798-capture-d-ecran-2019-10-06-a-19-22-43.png
+
+### JSON
+
+![JSON](/screenshots/json.png)
+
+
+### Markdown
+
+![Markdown](/screenshots/mardown.png)
+
+
+### HTML
+
+![HTML](/screenshots/html.png)
 
 
 ## Source Code
