@@ -1,0 +1,21 @@
+{
+    "name": "noftheme",
+    "displayName": "Noftheme",
+    "description": "Noftaly's VS code theme (dark)",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "noftheme-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/noftheme-dark-color-theme.json"
+            }
+        ]
+    }
+}
