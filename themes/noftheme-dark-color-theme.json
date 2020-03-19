@@ -35,17 +35,17 @@
     "badge.foreground": "#0a0e14",
     "progressBar.background": "#e6b450",
     "list.activeSelectionBackground": "#01060e",
-    "list.activeSelectionForeground": "#3d424d",
+    "list.activeSelectionForeground": "#858181cc",
     "list.focusBackground": "#01060e",
     "list.focusForeground": "#3d424d",
     "list.highlightForeground": "#e6b450",
     "list.hoverBackground": "#01060e",
-    "list.hoverForeground": "#3d424d",
+    "list.hoverForeground": "#858181cc",
     "list.inactiveSelectionBackground": "#01060e",
     "list.inactiveSelectionForeground": "#3d424d",
     "list.invalidItemForeground": "#2e323c",
     "activityBar.background": "#0a0e14",
-    "activityBar.foreground": "#3d424dcc",
+    "activityBar.foreground": "#858181cc",
     "activityBar.border": "#01060e",
     "activityBarBadge.background": "#e6b450",
     "activityBarBadge.foreground": "#0a0e14",
@@ -157,8 +157,8 @@
     "gitDecoration.modifiedResourceForeground": "#6994bfb3",
     "gitDecoration.deletedResourceForeground": "#d96c75b3",
     "gitDecoration.untrackedResourceForeground": "#91b362b3",
-    "gitDecoration.ignoredResourceForeground": "#242831",
-    "gitDecoration.conflictingResourceForeground": "",
+    "gitDecoration.ignoredResourceForeground": "#3a3f4b",
+    "gitDecoration.conflictingResourceForeground": "#ff0059b3",
     "gitDecoration.submoduleResourceForeground": "#ffee99b3",
     "settings.headerForeground": "#cdcac2",
     "settings.modifiedItemIndicator": "#6994bf",
@@ -234,7 +234,9 @@
 		},
 		{
 			"name": "Keyword Type",
-			"scope": ["keyword.type"],
+			"scope": [
+				"keyword.type"
+			],
 			"settings": {
 				"fontStyle": "bold",
 			}
@@ -283,6 +285,8 @@
 			"name": "Operator, Misc",
 			"scope": [
 				"keyword.control",
+				"keyword.other.new",
+				"keyword.operator.new",
 				"constant.other.color",
 				"punctuation",
 				"meta.tag",
@@ -293,7 +297,9 @@
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
 				"keyword.other.template",
-				"keyword.other.substitution"
+				"keyword.other.substitution",
+				"keyword.other.using",
+				"keyword.other.delegate"
 			],
 			"settings": {
 				"foreground": "#4998c9"
@@ -378,7 +384,6 @@
 		{
 			"name": "Class, Support",
 			"scope": [
-				"entity.name",
 				"support.type",
 				"support.class",
 				"support.orther.namespace.use.php",
