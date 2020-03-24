@@ -366,13 +366,12 @@
 			}
 		},
 		{
-			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"name": "String, Symbols, Markup Heading",
 			"scope": [
 				"string",
 				"punctuation.definition.string",
 				"constant.other.symbol",
 				"constant.other.key",
-				"entity.other.inherited-class",
 				"markup.heading",
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
@@ -386,6 +385,9 @@
 			"scope": [
 				"support.type",
 				"support.class",
+				"meta.class.js",
+				"entity.name.type.class.js",
+				"entity.other.inherited-class",
 				"support.orther.namespace.use.php",
 				"meta.use.php",
 				"support.other.namespace.php",
