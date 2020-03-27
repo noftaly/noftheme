@@ -197,6 +197,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"support.variable.property",
 				"meta.object-literal"
 			],
 			"settings": {
