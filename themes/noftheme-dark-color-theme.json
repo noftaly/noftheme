@@ -386,6 +386,8 @@
 				"support.type",
 				"support.class",
 				"meta.class.js",
+				"entity.name.type.js",
+				"new.expr.js",
 				"entity.name.type.class.js",
 				"entity.other.inherited-class",
 				"support.orther.namespace.use.php",
