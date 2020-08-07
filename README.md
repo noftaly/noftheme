@@ -6,11 +6,14 @@ It is a Dark theme, with high contrast syntax highlighting. Works perfectly with
 
 ## Installation
 
-- Open Extensions sidebar panel in Visual Studio Code. View → Extensions
+Download the folder, and put it in your `.vscode/extensions/` directory (`~/.vscode/extensions/`).
+Relaunch VSCode and Search for "Noftheme (dark)" :
+`File > Preferences > Color Theme > Noftheme` **OR** `[Ctrl/⌘ K Ctrl/⌘ T]` > Noftheme
+<!-- - Open Extensions sidebar panel in Visual Studio Code. View → Extensions
 - Search for Noftheme
 - Click Install
 - Click Reload
-- File > Preferences > Color Theme > Noftheme **OR** `[Ctrl/⌘ K Ctrl/⌘ T]` > Noftheme
+- File > Preferences > Color Theme > Noftheme **OR** `[Ctrl/⌘ K Ctrl/⌘ T]` > Noftheme -->
 
 ## Examples
 
