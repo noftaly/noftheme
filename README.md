@@ -22,34 +22,18 @@ It is a Dark theme, with high contrast syntax highlighting. Works perfectly with
 
 ![C# and Java](/screenshots/csharpjava.png)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 20b65287035f8d49c63645b209233be88be203eb
 ### JSON
 
 ![JSON](/screenshots/json.png)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 20b65287035f8d49c63645b209233be88be203eb
 ### Markdown
 
 ![Markdown](/screenshots/mardown.png)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 20b65287035f8d49c63645b209233be88be203eb
 ### HTML
 
 ![HTML](/screenshots/html.png)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 20b65287035f8d49c63645b209233be88be203eb
 ## Source Code
 
 Github repository : https://github.com/noftaly/noftheme
