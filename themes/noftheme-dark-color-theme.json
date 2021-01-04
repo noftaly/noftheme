@@ -197,6 +197,7 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"variable.parameter",
 				"support.variable.property",
 				"meta.object-literal"
 			],
@@ -370,7 +371,6 @@
 				"support.constant",
 				"constant.character",
 				"constant.escape",
-				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			],
